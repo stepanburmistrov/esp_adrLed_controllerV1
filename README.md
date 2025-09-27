@@ -10,7 +10,7 @@ firmware/ESP32_LED_Controller.ino  # основная прошивка (Arduino 
 docs/                              # картинки, гайды
 tools/                             # примеры запросов и шпаргалки
 ```
-Подробный учебник: см. [README в docs](docs/README.md).
+Описание функций: см. [README в docs](docs/README.md).
 
 ## Быстрый старт
 1. Загрузите `firmware/ESP32_LED_Controller.ino`.

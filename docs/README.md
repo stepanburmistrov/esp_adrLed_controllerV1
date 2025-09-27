@@ -78,7 +78,7 @@ REBOOT
 ## mDNS
 ![mDNS](images/mdns.png)
 
-Если `ledcontroller.local` не открывается — используй IP из Serial-лога.
+Если `ledcontroller.local` не открывается — используйте IP из Serial-лога.
 
 ## Безопасность
 - Веб по умолчанию открыт.
