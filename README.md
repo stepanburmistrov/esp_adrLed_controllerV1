@@ -2,8 +2,7 @@
 
 **Управление WS2812B через Web + HTTP API + Telegram (inline-меню + палитра).**
 Все настройки — в NVS; конфиг через UART **без перепрошивки**.
-
-![Веб-интерфейс](docs/images/web-ui-desktop.png)
+![Веб-интерфейс (mobile)](images/web-ui-mobile.png)
 
 ## Структура
 ```
